@@ -34,7 +34,7 @@ These results are based on simulated data and should not be interpreted as evide
 
 ## Files
 
-- [Full Report](HTN301_Report.pdf) - includes the cleaning process, charts, statistical analysis, and results.
+- [Full Report](HTN301_report.pdf) - includes the cleaning process, charts, statistical analysis, and results.
 - [Data Cleaning](cleaning.R) - code used to clean the raw dataset.
 - [Exploratory Data Analysis](EDA.R) - code for summary tables and visualizations.
 - [Statistical Analysis](Analysis.R) - code for regression models and survival analysis.
