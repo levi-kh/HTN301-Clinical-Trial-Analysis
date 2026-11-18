@@ -1,0 +1,601 @@
+"patient_id","site","region","arm","sex","age","weight_kg","height_cm","smoker","diabetes","crp_mg_l","baseline_sbp","sbp_wk4","sbp_wk8","sbp_wk12","sbp_wk24","adherence_pct","er_visits","time_months","event","end_reason","crp_mg_l_num"
+"P149","S08","Europe","Drug","Female",55,81.3,162,"No","No","1.47",153,158,142,155,139,86,0,13.64,1,"CV event",1.47
+"P484","S10","Asia","Placebo","Female",85,46,171,"Yes","No","2.95",159,154,153,150,161,75,4,24,0,"Completed 24 months",2.95
+"P050","S01","North America","Drug","Male",55,85.9,171,"No","Yes","1.07",157,145,133,139,144,90,0,24,0,"Completed 24 months",1.07
+"P208","S07","Europe","Drug","Male",53,86.5,178,"No","No","3.24",145,141,124,122,123,62,1,12.56,1,"CV event",3.24
+"P482","S08","Europe","Drug","Male",42,81,180,"No","No","3.96",143,132,129,130,127,90,1,24,0,"Completed 24 months",3.96
+"P481","S02","North America","Placebo","Male",55,83.2,166,"No","Yes","11.13",159,159,164,152,165,93,0,13.66,1,"CV event",11.13
+"P053","S03","North America","Placebo","Male",52,77.7,171,"No","No","3.05",141,162,154,155,NA,90,0,5.01,0,"Withdrew consent",3.05
+"P248","S08","Europe","Drug","Male",39,95.1,176,"No","Yes","3.48",150,147,157,141,139,66,6,24,0,"Completed 24 months",3.48
+"P341","S10","Asia","Drug","Female",75,81.9,161,"No","No","1.21",154,150,151,139,146,80,NA,8.86,1,"CV event",1.21
+"P585","S01","North America","Placebo","Female",67,79.8,161,"No","No","3.33",157,148,146,133,144,79,0,5.96,0,"Lost to follow-up",3.33
+"P034","S10","Asia","Placebo","Female",60,78.6,165,"No","No","1.66",154,161,166,152,154,87,0,24,0,"Completed 24 months",1.66
+"P096","S03","North America","Placebo","Male",55,120.7,177,NA,"No","0.78",155,151,152,145,153,94,1,24,0,"Completed 24 months",0.78
+"P575","S10","Asia","Drug","Male",70,102.6,156,"Yes","No","9.22",159,162,152,148,152,93,0,16.08,1,"CV event",9.22
+"P374","S04","North America","Placebo","Female",63,82.7,162,"No","No","4.19",147,147,154,151,154,83,0,24,0,"Completed 24 months",4.19
+"P587","S12","Asia","Placebo","Male",63,78.1,166,"No","No","3.1",158,142,147,144,154,100,1,24,0,"Completed 24 months",3.1
+"P345","S03","North America","Placebo","Male",68,66.2,186,"No","No","4.48",159,163,149,165,149,88,0,24,0,"Completed 24 months",4.48
+"P196","S07","Europe","Placebo","Male",71,109.3,168,"No","No","n/a",157,161,168,154,167,91,2,24,0,"Completed 24 months",NA
+"P138","S08","Europe","Placebo","Female",65,53.8,160,"No","No","4.48",169,172,174,172,168,79,0,24,0,"Completed 24 months",4.48
+"P110","S12","Asia","Drug","Female",76,77.8,179,"Yes","No","1.06",157,146,152,145,144,71,1,10.18,0,"Withdrew consent",1.06
+"P568","S10","Asia","Drug","Female",52,63.4,161,"No","Yes","1.35",149,153,NA,NA,NA,85,0,1.45,0,"Lost to follow-up",1.35
+"P200","S04","North America","Drug","Male",60,116.7,179,"No","Yes","8.74",152,156,146,145,NA,100,0,5.13,0,"Lost to follow-up",8.74
+"P416","S06","Europe","Placebo","Male",63,54.3,164,"No","No","2.07",144,153,141,145,149,91,0,7.66,1,"CV event",2.07
+"P532","S10","Asia","Placebo","Female",41,68.5,160,"No","Yes","1.3",149,NA,NA,NA,NA,81,0,0.42,0,"Lost to follow-up",1.3
+"P348","S02","North America","Placebo","Female",71,57.9,160,"Yes","No","1.04",156,158,153,146,154,80,2,16.77,1,"CV event",1.04
+"P192","S02","North America","Placebo","Female",64,86.5,163,"No","Yes","3.13",160,160,151,156,160,91,0,6.92,1,"CV event",3.13
+"P412","S07","Europe","Placebo","Male",52,108.4,185,"No","No","2.56",156,NA,NA,NA,NA,67,0,0.86,0,"Lost to follow-up",2.56
+"P180","S01","North America","Drug","Male",54,112,171,"No","Yes","1.21",154,162,148,145,149,100,0,24,0,"Completed 24 months",1.21
+"P124","S11","Asia","Placebo","Male",60,92.3,180,"No","No","4.79",163,164,NA,NA,NA,91,0,1.28,0,"Lost to follow-up",4.79
+"P426","S07","Europe","Placebo","Male",58,79.1,178,"No","No","1.44",175,147,155,159,153,92,1,22.16,1,"CV event",1.44
+"P172","S12","Asia","Drug","Male",51,84.5,180,"Yes","No","2.76",150,166,151,153,137,100,0,24,0,"Completed 24 months",2.76
+"P199","S02","North America","Drug","Male",52,94.4,177,"Yes","Yes","0.83",152,131,NA,134,127,89,0,12.42,1,"CV event",0.83
+"P316","S11","Asia","Drug","Female",59,71.2,160,"No","No","1.66",151,NA,NA,NA,NA,80,0,0.72,0,"Lost to follow-up",1.66
+"P340","S07","Europe","Drug","Female",54,75.5,171,"No","No","1.07",143,154,135,145,141,94,1,24,0,"Completed 24 months",1.07
+"P347","S06","Europe","Placebo","Female",61,77.4,159,"Yes","No","1.6",150,166,154,167,156,86,0,11.45,1,"CV event",1.6
+"P491","S07","Europe","Drug","Female",71,63.7,159,"No","No","8.82",153,NA,NA,NA,NA,68,0,0.52,0,"Withdrew consent",8.82
+"P027","S11","Asia","Placebo","Male",73,95.1,162,"No","Yes","3.81",151,153,162,160,164,100,0,21.96,1,"CV event",3.81
+"P464","S02","North America","Drug","Female",67,81,168,"Yes","Yes","12.31",149,159,139,145,148,89,0,8.16,1,"CV event",12.31
+"P554","S11","Asia","Drug","Female",63,48.3,164,"Yes","No","2.58",155,158,150,155,151,98,1,24,0,"Completed 24 months",2.58
+"P402","S11","Asia","Drug","Male",43,69.5,196,"No","No","1.32",144,142,130,138,137,92,2,24,0,"Completed 24 months",1.32
+"P525","S01","North America","Placebo","Male",66,87.8,169,"Yes","No","6.63",156,157,159,158,172,91,1,22.53,1,"CV event",6.63
+"P089","S05","North America","Placebo","Female",61,64.7,162,"No","No","1.98",144,137,143,127,141,100,1,23.36,1,"CV event",1.98
+"P334","S06","Europe","Drug","Female",44,66.5,164,"No","No","32.28",141,NA,NA,NA,NA,81,0,0.55,0,"Withdrew consent",32.28
+"P130","S01","North America","Placebo","Female",74,49.8,165,"No","No","1.04",154,156,160,153,150,85,0,12.55,1,"CV event",1.04
+"P254","S08","Europe","Drug","Male",48,94.9,164,"No","No","15.58",154,158,146,137,146,81,0,24,0,"Completed 24 months",15.58
+"P220","S02","North America","Placebo","Male",57,92.8,184,"No","No","1.64",140,141,150,138,143,100,0,7.5,1,"CV event",1.64
+"P382","S12","Asia","Placebo","Male",47,72.7,179,"No","No","1.4",142,139,133,141,134,92,0,24,0,"Completed 24 months",1.4
+"P357","S06","Europe","Drug","Female",57,58.5,162,"No","No","1.28",144,145,153,146,136,73,0,12.78,1,"CV event",1.28
+"P296","S08","Europe","Drug","Female",60,69.1,172,"No","No","0.62",141,131,129,125,NA,98,0,3.4,1,"CV event",0.62
+"P174","S05","North America","Placebo","Male",61,87.9,171,"No","Yes","3.19",140,152,142,147,146,70,0,24,0,"Completed 24 months",3.19
+"P504","S11","Asia","Placebo","Male",60,68.8,172,"No","No","5.4",156,150,140,141,143,NA,2,24,0,"Completed 24 months",5.4
+"P150","S09","Europe","Placebo","Female",40,67.9,163,"No","No","0.57",149,132,135,127,134,90,0,10.87,0,"Withdrew consent",0.57
+"P594","S09","Europe","Placebo","Male",57,87.8,181,"Yes","No","3.57",153,148,154,135,141,89,0,24,0,"Completed 24 months",3.57
+"P005","S04","North America","Placebo","Female",53,63.3,166,"Yes","No","2.1",144,141,127,131,139,93,2,22.31,1,"CV event",2.1
+"P454","S06","Europe","Drug","Female",51,71.6,168,"No","No","5.42",146,140,128,128,134,100,1,24,0,"Completed 24 months",5.42
+"P189","S06","Europe","Placebo","Female",68,88,166,"No","Yes","2.16",164,161,138,140,144,100,1,10.02,1,"CV event",2.16
+"P170","S02","North America","Placebo","Male",60,139.8,172,"No","No","5.63",143,153,148,NA,NA,80,0,2.06,0,"Lost to follow-up",5.63
+"P301","S10","Asia","Placebo","Male",65,62.3,177,"No","No","0.84",142,140,139,132,132,97,1,24,0,"Completed 24 months",0.84
+"P105","S06","Europe","Placebo","Male",69,85.2,184,"No","No","7.87",145,147,150,133,141,93,0,24,0,"Completed 24 months",7.87
+"P437","S06","Europe","Placebo","Male",63,88.3,174,"No","No","1.24",146,130,117,126,132,81,1,12.76,1,"CV event",1.24
+"P241","S04","North America","Drug","Female",46,59.3,163,"No","Yes","2.69",145,135,156,145,137,75,1,8.1,1,"CV event",2.69
+"P353","S08","Europe","Drug","Male",60,88.7,176,"No","No","4.58",156,146,137,NA,NA,79,0,2.04,0,"Withdrew consent",4.58
+"P455","S03","North America","Placebo","Female",64,69.5,155,"No","No","1.61",153,141,142,157,149,92,1,24,0,"Completed 24 months",1.61
+"P154","S07","Europe","Placebo","Male",66,67.4,190,"No","No","1.27",156,163,152,154,140,89,0,24,0,"Completed 24 months",1.27
+"P144","S09","Europe","Placebo","Male",47,105.2,175,"No","No","1.15",158,141,158,NA,NA,87,0,2.3,0,"Lost to follow-up",1.15
+"P230","S07","Europe","Placebo","Male",59,71.1,178,"No","No","1.51",155,147,142,150,151,100,0,19.9,1,"CV event",1.51
+"P062","S02","North America","Placebo","Female",67,81.6,157,"No","Yes","1.76",157,168,152,154,161,88,2,24,0,"Completed 24 months",1.76
+"P523","S09","Europe","Placebo","Male",51,77.7,190,"Yes","No","1.46",140,134,135,133,129,83,1,10.97,1,"CV event",1.46
+"P373","S02","North America","Drug","Male",44,101,171,"No","Yes","1.19",153,161,NA,NA,NA,79,0,1.04,0,"Withdrew consent",1.19
+"P350","S03","North America","Drug","Male",67,82.2,176,"No","No","0.98",151,141,126,133,135,92,0,24,0,"Completed 24 months",0.98
+"P306","S11","Asia","Drug","Male",55,67.1,175,"No","No","1.81",148,NA,NA,NA,NA,71,0,0.86,0,"Withdrew consent",1.81
+"P259","S09","Europe","Drug","Female",60,64.9,174,"No","No","2.08",141,153,151,130,146,87,2,24,0,"Completed 24 months",2.08
+"P094","S07","Europe","Drug","Male",55,95.7,180,"No","No","0.84",143,134,144,145,145,93,0,24,0,"Completed 24 months",0.84
+"P097","S02","North America","Placebo","Male",53,79.3,171,"No","Yes","2.36",154,144,141,148,154,82,1,24,0,"Completed 24 months",2.36
+"P403","S05","North America","Drug","Male",79,69.9,178,"No","Yes","4.71",141,131,132,NA,NA,85,0,2.55,1,"CV event",4.71
+"P281","S12","Asia","Drug","Female",44,66.9,153,"No","No","3.27",149,140,NA,NA,NA,73,0,1.75,0,"Withdrew consent",3.27
+"P147","S12","Asia","Placebo","Female",46,86,161,"No","No","1.7",144,163,163,165,158,100,1,10.18,1,"CV event",1.7
+"P317","S08","Europe","Placebo","Male",59,85.5,177,"No","No","6.7",154,161,147,162,144,84,0,15.34,1,"CV event",6.7
+"P289","S09","Europe","Drug","Female",57,72,163,"Yes","No","2.04",154,152,151,138,146,79,1,24,0,"Completed 24 months",2.04
+"P156","S03","North America","Drug","Female",45,76.3,160,"Yes","No","3.47",149,142,159,139,154,69,1,24,0,"Completed 24 months",3.47
+"P592","S09","Europe","Placebo","Male",58,70.1,177,"No","Yes","1.88",154,159,155,147,160,97,0,16.43,1,"CV event",1.88
+"P495","S09","Europe","Placebo","Male",63,67,184,"No","No","<0.2",148,151,149,164,156,92,0,24,0,"Completed 24 months",NA
+"P244","S06","Europe","Placebo","Female",46,64.4,166,"No","No","2.59",147,143,146,140,136,87,0,23.47,1,"CV event",2.59
+"P260","S10","Asia","Drug","Male",80,95.6,176,"No","No","2.46",161,165,165,161,164,68,0,24,0,"Completed 24 months",2.46
+"P305","S04","North America","Placebo","Female",59,65,170,"No","Yes","1.19",153,150,150,155,160,93,1,24,0,"Completed 24 months",1.19
+"P452","S04","North America","Placebo","Male",51,74,180,"Yes","No","0.92",142,131,159,150,139,74,3,24,0,"Completed 24 months",0.92
+"P204","S12","Asia","Placebo","Male",49,71.6,173,"Yes","No","5.45",142,137,148,140,136,96,0,10.79,1,"CV event",5.45
+"P501","S12","Asia","Placebo","Female",72,74.8,158,"No","No","0.62",161,165,162,160,NA,91,0,4.65,1,"CV event",0.62
+"P285","S04","North America","Placebo","Male",60,87.7,186,"No","Yes","1.25",164,172,165,161,168,96,0,11.26,1,"CV event",1.25
+"P553","S10","Asia","Drug","Male",60,84.6,190,"No","Yes","0.7",151,NA,NA,NA,NA,79,0,0.8,0,"Withdrew consent",0.7
+"P431","S04","North America","Drug","Male",55,92.8,173,"No","No","4.29",155,142,145,147,160,89,0,18.06,0,"Lost to follow-up",4.29
+"P003","S09","Europe","Placebo","Male",73,91,179,"No","No","3.69",155,155,157,158,151,90,1,24,0,"Completed 24 months",3.69
+"P211","S09","Europe","Placebo","Male",64,91.1,182,"No","Yes","2.94",161,150,139,137,NA,82,0,3.58,1,"CV event",2.94
+"P331","S11","Asia","Placebo","Female",51,59.8,162,"No","No","1.17",145,135,139,141,NA,93,0,4.46,1,"CV event",1.17
+"P219","S06","Europe","Drug","Female",69,90.2,160,"No","Yes","2.52",153,153,159,142,148,67,1,20.83,1,"CV event",2.52
+"P055","S09","Europe","Drug","Male",44,100,171,"No","No","3.18",152,146,136,147,128,86,0,7.47,1,"CV event",3.18
+"P218","S12","Asia","Drug","Male",49,102.9,181,"No","No","0.85",144,144,133,137,134,100,1,24,0,"Completed 24 months",0.85
+"P057","S09","Europe","Drug","Female",56,73.5,165,"No","Yes","1.46",152,145,125,136,135,96,2,6.71,0,"Withdrew consent",1.46
+"P175","S03","North America","Placebo","Female",60,62.5,149,"No","No","3.12",179,NA,NA,NA,NA,89,0,0.03,0,"Lost to follow-up",3.12
+"P071","S08","Europe","Placebo","Male",56,75.1,182,"No","No","4.15",145,140,145,152,146,99,2,24,0,"Completed 24 months",4.15
+"P567","S05","North America","Drug","Male",60,71,173,"No","No","3.27",151,146,146,134,145,74,1,24,0,"Completed 24 months",3.27
+"P355","S02","North America","Placebo","Female",54,65.5,157,"No","No","2.4",163,NA,NA,NA,NA,96,0,0.08,0,"Lost to follow-up",2.4
+"P278","S01","North America","Placebo","Male",56,93.4,170,"No","Yes","2.08",162,155,141,152,144,74,1,24,0,"Completed 24 months",2.08
+"P418","S01","North America","Placebo","Female",62,55.9,175,"No","No","4.29",148,160,152,144,145,97,3,24,0,"Completed 24 months",4.29
+"P479","S08","Europe","Placebo","Female",75,114.5,169,"No","No","2.31",166,161,145,155,152,68,1,24,0,"Completed 24 months",2.31
+"P388","S02","North America","Placebo","Female",50,63.9,162,"No","No","0.79",142,143,150,140,147,94,0,24,0,"Completed 24 months",0.79
+"P294","S12","Asia","Drug","Male",55,77.9,180,"Yes","Yes","2.13",153,157,153,149,143,90,1,24,0,"Completed 24 months",2.13
+"P390","S04","North America","Drug","Male",64,92.3,189,"No","No","4.72",141,136,147,125,151,76,0,7.76,0,"Lost to follow-up",4.72
+"P438","S09","Europe","Drug","Male",55,83.5,188,"Yes","No","1.42",142,141,136,137,132,85,0,13.97,0,"Withdrew consent",1.42
+"P472","S08","Europe","Placebo","Female",48,78.4,167,"No","Yes","2.37",158,159,154,150,150,91,3,24,0,"Completed 24 months",2.37
+"P041","S10","Asia","Placebo","Male",64,60.5,178,"Yes","No","6.2",142,156,146,144,131,83,0,16.19,1,"CV event",6.2
+"P058","S06","Europe","Placebo","Male",68,66.2,176,"No","No","1.75",141,142,155,136,149,76,0,24,0,"Completed 24 months",1.75
+"P387","S03","North America","Placebo","Male",56,68.7,180,"No","No","21.14",146,NA,NA,NA,NA,93,0,0.57,1,"CV event",21.14
+"P240","S11","Asia","Placebo","Male",50,95.5,169,"No","No","1.5",148,137,139,139,139,97,0,7.22,1,"CV event",1.5
+"P054","S12","Asia","Placebo","Male",53,85.3,188,"No","No","4.11",140,137,135,NA,150,71,0,24,0,"Completed 24 months",4.11
+"P222","S11","Asia","Drug","Female",60,68.6,157,"No","No","4.88",152,142,156,142,143,80,0,24,0,"Completed 24 months",4.88
+"P359","S06","Europe","Drug","Female",59,60.7,159,"Yes","No","0.91",142,128,119,119,112,85,1,19.96,1,"CV event",0.91
+"P579","S03","North America","Drug","Male",76,75.3,164,"No","No","1.22",148,123,128,123,142,71,5,24,0,"Completed 24 months",1.22
+"P140","S01","North America","Drug","Female",41,60.4,163,"No","No","0.77",144,152,142,NA,NA,75,0,2.46,0,"Withdrew consent",0.77
+"P475","S03","North America","Placebo","Male",56,104.9,159,"No","No","8.57",158,142,139,156,NA,81,1,4.97,0,"Lost to follow-up",8.57
+"P558","S09","Europe","Placebo","Female",55,90.1,157,"No","No","2.68",147,150,129,141,136,98,1,18.35,1,"CV event",2.68
+"P184","S09","Europe","Drug","Male",69,80.7,168,"No","No","4.29",149,148,140,146,138,91,0,17.8,1,"CV event",4.29
+"P040","S06","Europe","Placebo","Female",69,52.5,164,"No","No","1.06",158,160,148,138,160,89,0,15.23,1,"CV event",1.06
+"P406","S08","Europe","Drug","Male",59,80.5,170,"No","No","3.63",149,160,153,145,125,NA,0,24,0,"Completed 24 months",3.63
+"P061","S05","North America","Placebo","Male",56,107.1,181,"No","No","6.23",143,153,158,147,150,97,0,6.4,0,"Lost to follow-up",6.23
+"P446","S03","North America","Drug","Male",72,78.6,169,"No","No","<0.2",161,148,162,145,129,90,0,24,0,"Completed 24 months",NA
+"P215","S03","North America","Placebo","Male",54,56.4,183,"No","No","6.62",141,150,148,148,134,87,0,24,0,"Completed 24 months",6.62
+"P221","S10","Asia","Placebo","Male",62,96.8,166,"No","No","2.97",159,159,151,148,158,84,1,22.14,0,"Withdrew consent",2.97
+"P550","S05","North America","Drug","Male",58,86,159,"No","No","0.49",157,156,144,144,154,74,0,8.59,0,"Withdrew consent",0.49
+"P595","S02","North America","Placebo","Female",41,71,170,"No","No","4.23",142,154,161,NA,156,89,5,24,0,"Completed 24 months",4.23
+"P045","S03","North America","Drug","Male",45,95.9,182,"No","No","0.47",143,146,146,140,NA,79,0,5.51,1,"CV event",0.47
+"P401","S02","North America","Drug","Male",61,46,174,"No","No","1.95",142,155,137,141,142,83,0,24,0,"Completed 24 months",1.95
+"P205","S01","North America","Drug","Female",48,59.6,162,"Yes","No","3.78",148,132,133,137,135,95,0,24,0,"Completed 24 months",3.78
+"P531","S06","Europe","Placebo","Female",67,50.7,154,"Yes","No","4.52",162,147,172,156,160,100,3,24,0,"Completed 24 months",4.52
+"P277","S11","Asia","Drug","Male",46,99.5,179,"No","No","6.72",165,162,156,159,NA,84,0,3.06,0,"Withdrew consent",6.72
+"P434","S10","Asia","Placebo","Female",44,49.9,168,"No","No","1.03",153,NA,NA,NA,NA,91,0,0.55,0,"Lost to follow-up",1.03
+"P376","S12","Asia","Drug","Female",47,66.2,164,"No","No","4.36",159,150,141,145,145,86,2,24,0,"Completed 24 months",4.36
+"P522","S02","North America","Placebo","Male",54,67.2,170,"No","No","1.38",143,155,146,149,144,83,1,23.32,1,"CV event",1.38
+"P405","S12","Asia","Placebo","Male",61,65.6,165,"No","No","1.53",141,137,142,133,131,79,3,19.21,1,"CV event",1.53
+"P310","S10","Asia","Drug","Male",38,99.8,170,"No","No","1.17",146,151,152,148,142,94,0,24,0,"Completed 24 months",1.17
+"P286","S10","Asia","Drug","Female",63,71.6,162,"Yes","No","9.7",143,152,142,NA,NA,81,0,2.42,0,"Withdrew consent",9.7
+"P010","S05","North America","Placebo","Female",61,68.1,170,"No","No","2.04",151,150,152,150,144,84,2,24,0,"Completed 24 months",2.04
+"P145","S01","North America","Placebo","Female",47,67.9,149,"No","Yes","3.06",150,143,138,145,148,90,1,24,0,"Completed 24 months",3.06
+"P007","S03","North America","Placebo","Female",62,80.1,164,"Yes","No","2.48",154,154,145,147,144,94,0,24,0,"Completed 24 months",2.48
+"P302","S07","Europe","Drug","Male",79,102.4,170,"No","No","3.59",152,167,NA,NA,NA,93,0,1.18,0,"Lost to follow-up",3.59
+"P231","S07","Europe","Drug","Male",41,81.3,184,"No","No","1.12",143,138,142,134,138,100,0,16.47,0,"Lost to follow-up",1.12
+"P476","S12","Asia","Drug","Female",55,73.5,164,"No","No","9.45",141,131,140,119,118,83,0,24,0,"Completed 24 months",9.45
+"P283","S03","North America","Placebo","Female",82,99.6,162,"No","No","2.86",167,150,163,154,158,83,1,19.65,1,"CV event",2.86
+"P360","S09","Europe","Placebo","Male",82,96.5,168,"No","No","13.73",152,146,144,138,149,90,2,11.96,1,"CV event",13.73
+"P421","S06","Europe","Placebo","Female",56,76.1,160,"No","No","3.49",140,152,143,149,129,77,3,24,0,"Completed 24 months",3.49
+"P159","S11","Asia","Placebo","Female",37,66.1,158,"Yes","No","3.29",143,152,152,159,150,80,5,24,0,"Completed 24 months",3.29
+"P084","S03","North America","Placebo","Female",60,59.6,160,"No","No","4.49",147,147,NA,NA,NA,100,0,1.54,0,"Withdrew consent",4.49
+"P321","S07","Europe","Drug","Female",47,61.5,163,"Yes","No","1.66",142,124,140,123,133,80,1,24,0,"Completed 24 months",1.66
+"P367","S09","Europe","Placebo","Male",62,80.3,174,"No","No","2.01",156,164,168,NA,166,94,2,24,0,"Completed 24 months",2.01
+"P361","S05","North America","Placebo","Male",50,83,175,"No","No","0.67",147,146,147,137,135,84,3,24,0,"Completed 24 months",0.67
+"P100","S04","North America","Drug","Male",47,86.7,171,"No","No","4.24",146,143,146,142,149,100,0,24,0,"Completed 24 months",4.24
+"P125","S09","Europe","Placebo","Male",59,102.3,166,"No","No","4.18",152,153,147,148,NA,NA,1,5.14,0,"Lost to follow-up",4.18
+"P398","S02","North America","Placebo","Male",68,90.6,165,"No","Yes","1.76",141,141,135,128,124,82,0,10.59,1,"CV event",1.76
+"P414","S08","Europe","Placebo","Male",44,88.7,177,"No","No","1.12",164,149,147,151,153,84,0,24,0,"Completed 24 months",1.12
+"P088","S04","North America","Placebo","Female",50,75.7,160,"No","No","5.35",145,136,135,119,150,95,0,11.15,1,"CV event",5.35
+"P577","S02","North America","Drug","Male",82,108,188,"No","No","5.74",151,143,147,139,139,60,0,24,0,"Completed 24 months",5.74
+"P370","S01","North America","Placebo","Male",53,92.5,174,"No","No","4.55",152,155,156,157,167,90,0,24,0,"Completed 24 months",4.55
+"P295","S12","Asia","Placebo","Male",63,70.8,175,"No","No","4.31",144,151,143,135,138,100,2,24,0,"Completed 24 months",4.31
+"P072","S12","Asia","Placebo","Male",50,84.4,171,"Yes","Yes","1.66",151,160,143,148,147,98,5,24,0,"Completed 24 months",1.66
+"P202","S04","North America","Placebo","Male",58,80.2,163,"Yes","No","3.49",145,138,136,129,133,96,NA,11.48,1,"CV event",3.49
+"P131","S12","Asia","Drug","Female",59,75,169,"No","No","18.37",154,NA,NA,NA,NA,89,0,0.26,0,"Lost to follow-up",18.37
+"P075","S05","North America","Drug","Male",45,78.8,180,"No","No","1.42",145,135,130,141,NA,84,0,2.93,0,"Lost to follow-up",1.42
+"P137","S05","North America","Drug","Male",66,115.8,185,"No","No","2.65",143,147,140,140,NA,81,1,5.02,1,"CV event",2.65
+"P552","S08","Europe","Placebo","Female",58,170.6,166,"Yes","No","5.61",159,146,146,148,146,71,2,24,0,"Completed 24 months",5.61
+"P516","S09","Europe","Drug","Female",60,62.5,171,"No","No","1.4",145,135,124,125,132,72,1,9.08,0,"Withdrew consent",1.4
+"P017","S09","Europe","Placebo","Female",37,72.4,173,"No","No","5.54",144,148,153,147,147,79,1,24,0,"Completed 24 months",5.54
+"P114","S05","North America","Drug","Female",36,79.2,154,"No","No","6.01",158,139,136,138,142,84,0,24,0,"Completed 24 months",6.01
+"P008","S12","Asia","Placebo","Male",55,65.1,173,"No","No","5.04",146,147,165,146,151,91,0,11.44,0,"Withdrew consent",5.04
+"P536","S04","North America","Drug","Male",70,78.2,177,"No","No","0.83",153,151,146,136,NA,70,0,5.46,0,"Lost to follow-up",0.83
+"P511","S12","Asia","Drug","Female",NA,60.6,157,"Yes","No","1.28",150,139,137,135,130,73,0,24,0,"Completed 24 months",1.28
+"P518","S05","North America","Drug","Male",79,71.4,176,"No","Yes","3.69",158,139,143,131,130,81,1,7.34,1,"CV event",3.69
+"P273","S12","Asia","Drug","Female",61,62.7,165,"No","No","1.22",149,NA,NA,NA,NA,89,0,0.02,0,"Withdrew consent",1.22
+"P068","S05","North America","Drug","Female",58,63.8,174,"No","No","1.79",163,159,153,160,153,79,3,24,0,"Completed 24 months",1.79
+"P521","S09","Europe","Drug","Male",57,75.4,161,"No","No","2.7",152,158,151,152,152,78,4,24,0,"Completed 24 months",2.7
+"P526","S01","North America","Drug","Male",47,96.7,176,"No","No","0.81",150,144,132,157,141,58,1,24,0,"Completed 24 months",0.81
+"P279","S12","Asia","Drug","Female",52,62.6,169,"No","No","3.27",142,134,135,141,133,72,1,24,0,"Completed 24 months",3.27
+"P275","S11","Asia","Drug","Female",57,75.4,164,"Yes","No","6.25",145,NA,NA,NA,NA,62,0,0.23,1,"CV event",6.25
+"P263","S10","Asia","Placebo","Female",62,54.9,164,"No","No","2.85",140,145,148,148,146,90,2,24,0,"Completed 24 months",2.85
+"P318","S05","North America","Drug","Female",59,63.2,161,"No","No","1.29",144,139,148,150,NA,79,0,4.25,0,"Lost to follow-up",1.29
+"P410","S04","North America","Drug","Male",64,78,172,"No","No","1.5",148,135,138,129,131,94,1,9.53,1,"CV event",1.5
+"P358","S03","North America","Placebo","Female",66,82.5,171,"No","No","3.64",146,133,140,133,123,100,2,21.11,0,"Lost to follow-up",3.64
+"P542","S10","Asia","Drug","Female",68,82.4,159,"Yes","No","3.83",149,128,125,113,135,98,0,24,0,"Completed 24 months",3.83
+"P420","S12","Asia","Drug","Male",63,87.6,176,"No","No","1.6",144,152,141,132,149,79,1,24,0,"Completed 24 months",1.6
+"P457","S01","North America","Placebo","Female",77,75.2,161,"No","Yes","6.72",164,152,153,153,NA,100,1,4.01,1,"CV event",6.72
+"P449","S12","Asia","Drug","Female",72,71.8,158,"No","No","8.36",143,NA,NA,NA,NA,90,0,0.17,0,"Withdrew consent",8.36
+"P496","S11","Asia","Drug","Female",33,73.8,160,"No","No","1.03",148,144,148,141,148,98,1,24,0,"Completed 24 months",1.03
+"P557","S06","Europe","Drug","Male",62,84.4,174,"Yes","No","3.6",145,158,153,NA,NA,79,0,2.04,0,"Withdrew consent",3.6
+"P256","S02","North America","Drug","Male",68,76.5,165,"No","No","0.63",150,142,139,141,135,100,2,24,0,"Completed 24 months",0.63
+"P513","S03","North America","Placebo","Male",45,109.4,177,"Yes","No","2.7",167,160,151,144,164,92,2,24,0,"Completed 24 months",2.7
+"P365","S03","North America","Placebo","Male",53,91.1,167,"No","No","8.23",146,143,152,145,143,80,0,24,0,"Completed 24 months",8.23
+"P299","S06","Europe","Drug","Female",65,76.2,161,"No","Yes","1.74",151,141,136,136,128,83,1,11.15,1,"CV event",1.74
+"P288","S01","North America","Placebo","Female",56,88.2,151,"No","No","3.4",153,145,144,143,NA,93,0,5.38,1,"CV event",3.4
+"P021","S03","North America","Drug","Female",54,74.8,166,"Yes","No","2.45",153,148,140,141,137,70,0,24,0,"Completed 24 months",2.45
+"P517","S05","North America","Placebo","Male",49,88.4,183,"No","No","4.4",142,134,139,136,147,81,3,24,0,"Completed 24 months",4.4
+"P272","S11","Asia","Placebo","Female",47,67.1,165,"No","No","1.39",156,153,152,144,145,76,2,24,0,"Completed 24 months",1.39
+"P379","S10","Asia","Placebo","Female",54,52.1,170,"No","No","3.02",144,145,146,140,144,100,0,24,0,"Completed 24 months",3.02
+"P297","S01","North America","Drug","Male",62,NA,188,"No","No","10.62",151,139,157,138,139,76,0,18.01,1,"CV event",10.62
+"P530","S12","Asia","Drug","Female",68,95.1,159,"No","Yes","2.86",144,144,147,NA,NA,96,0,2.74,1,"CV event",2.86
+"P118","S04","North America","Placebo","Female",71,72.2,166,"No","Yes","1.85",153,135,137,133,131,100,1,24,0,"Completed 24 months",1.85
+"P439","S09","Europe","Placebo","Female",73,69,167,"No","No","2.97",159,NA,NA,NA,NA,91,0,0.41,1,"CV event",2.97
+"P269","S10","Asia","Placebo","Female",60,86.2,169,"No","No","4.62",151,153,150,144,155,94,0,24,0,"Completed 24 months",4.62
+"P271","S05","North America","Drug","Male",59,81.3,182,"No","No","1.96",156,151,149,151,139,90,1,24,0,"Completed 24 months",1.96
+"P354","S12","Asia","Placebo","Male",62,70,168,"No","Yes","0.68",150,130,135,139,140,94,1,11.57,0,"Lost to follow-up",0.68
+"P267","S05","North America","Placebo","Female",57,71.7,156,"Yes","No","9.6",157,164,159,149,160,84,2,24,0,"Completed 24 months",9.6
+"P106","S12","Asia","Drug","Male",62,109.2,164,"No","No","4.78",163,NA,NA,NA,NA,83,0,0.05,0,"Withdrew consent",4.78
+"P474","S12","Asia","Drug","Female",53,56.6,173,"No","No","1.61",144,124,121,135,129,99,0,17.06,0,"Withdrew consent",1.61
+"P201","S02","North America","Drug","Male",50,46,180,"No","Yes","1.85",141,126,131,NA,NA,95,1,2.46,0,"Lost to follow-up",1.85
+"P598","S06","Europe","Placebo","Female",54,62.2,160,"No","No","2.89",151,150,151,146,142,92,6,24,0,"Completed 24 months",2.89
+"P477","S03","North America","Placebo","Male",50,100.1,170,"No","No","1.8",153,157,155,165,150,100,0,24,0,"Completed 24 months",1.8
+"P326","S12","Asia","Drug","Male",70,75.8,173,"No","No","4.2",147,139,145,142,138,96,4,17.51,1,"CV event",4.2
+"P087","S11","Asia","Placebo","Male",44,79.1,182,"No","No","1.97",150,154,151,132,142,100,0,24,0,"Completed 24 months",1.97
+"P535","S04","North America","Drug","Male",56,93.4,189,"Yes","No","3.6",150,149,143,148,145,95,0,24,0,"Completed 24 months",3.6
+"P463","S08","Europe","Drug","Male",71,92,179,"No","No","1.5",162,NA,NA,NA,NA,69,0,0.89,0,"Withdrew consent",1.5
+"P433","S10","Asia","Drug","Female",61,73.9,172,"No","No","1.24",170,176,154,165,159,81,0,24,0,"Completed 24 months",1.24
+"P163","S02","North America","Placebo","Female",47,57.8,155,"No","No","1.47",144,152,148,143,141,83,0,24,0,"Completed 24 months",1.47
+"P589","S08","Europe","Drug","Male",55,80.3,179,NA,"No","0.83",153,126,155,149,146,87,0,24,0,"Completed 24 months",0.83
+"P136","S09","Europe","Placebo","Male",62,98.4,169,"No","No","14.61",159,NA,NA,NA,NA,100,0,0.09,0,"Lost to follow-up",14.61
+"P116","S09","Europe","Placebo","Male",52,74.5,189,"Yes","No","2.77",147,132,145,132,121,82,1,9.84,1,"CV event",2.77
+"P487","S08","Europe","Drug","Male",53,59.7,186,"No","No","n/a",142,128,135,136,131,77,0,24,0,"Completed 24 months",NA
+"P224","S09","Europe","Placebo","Male",62,94,180,"No","Yes","3.53",159,162,NA,NA,NA,81,1,1.27,0,"Withdrew consent",3.53
+"P549","S05","North America","Drug","Female",65,90.8,178,"Yes","Yes","4.9",157,145,147,141,142,71,0,15.73,1,"CV event",4.9
+"P509","S07","Europe","Placebo","Male",58,60.6,175,"No","No","4.48",141,134,NA,NA,NA,95,0,1.21,0,"Lost to follow-up",4.48
+"P308","S09","Europe","Placebo","Male",48,66.1,178,"No","No","0.94",153,NA,NA,NA,NA,85,0,0.81,0,"Lost to follow-up",0.94
+"P022","S07","Europe","Drug","Male",51,89.9,184,"No","Yes","9.53",168,156,153,144,164,74,0,24,0,"Completed 24 months",9.53
+"P015","S05","North America","Placebo","Female",56,66,161,"No","No","1.24",145,138,146,NA,NA,100,0,2.48,0,"Lost to follow-up",1.24
+"P392","S03","North America","Drug","Male",69,85.7,174,"No","No","2.46",150,131,129,130,139,79,3,24,0,"Completed 24 months",2.46
+"P185","S12","Asia","Drug","Female",62,71.8,162,"Yes","No","3.4",167,149,143,154,150,73,0,21.26,1,"CV event",3.4
+"P512","S01","North America","Placebo","Female",56,75.9,163,"Yes","No","2.82",142,132,149,135,140,99,2,24,0,"Completed 24 months",2.82
+"P298","S10","Asia","Placebo","Male",83,96.9,171,"No","No","1.66",160,155,148,146,143,84,0,6.63,1,"CV event",1.66
+"P099","S11","Asia","Placebo","Male",62,68.8,190,"No","No","1.26",142,136,138,NA,117,82,13,24,0,"Completed 24 months",1.26
+"P543","S05","North America","Drug","Female",34,87.7,169,"No","No","14.65",152,147,138,150,NA,89,0,4.99,0,"Withdrew consent",14.65
+"P093","S06","Europe","Drug","Female",43,66,162,"No","No","11.46",142,153,146,NA,NA,77,0,2.41,0,"Withdrew consent",11.46
+"P456","S03","North America","Drug","Female",61,95.3,169,"No","No","1.25",171,159,144,155,155,85,1,24,0,"Completed 24 months",1.25
+"P095","S08","Europe","Drug","Male",59,102.2,170,"No","No","3.97",150,149,151,142,144,70,1,24,0,"Completed 24 months",3.97
+"P032","S05","North America","Placebo","Male",64,104.4,183,"Yes","No","1.61",162,136,151,146,144,90,0,18.33,1,"CV event",1.61
+"P251","S09","Europe","Placebo","Male",55,113.5,174,"Yes","No","9.5",152,161,161,157,159,82,1,24,0,"Completed 24 months",9.5
+"P465","S03","North America","Drug","Male",70,89,178,"Yes","No","2.15",141,154,154,151,154,98,0,24,0,"Completed 24 months",2.15
+"P203","S06","Europe","Drug","Male",52,63.4,173,"No","No","5.98",143,134,133,135,131,78,0,24,0,"Completed 24 months",5.98
+"P312","S09","Europe","Placebo","Male",65,64.2,172,"No","No","1.25",142,149,145,144,154,99,0,11.92,1,"CV event",1.25
+"P323","S08","Europe","Placebo","Male",73,76.1,170,"No","No","3.58",160,157,143,153,143,82,10,24,0,"Completed 24 months",3.58
+"P176","S11","Asia","Placebo","Male",46,90.1,171,"No","No","3.87",152,135,141,138,130,93,0,24,0,"Completed 24 months",3.87
+"P539","S04","North America","Placebo","Female",57,61.5,165,"Yes","No","2.65",144,131,141,136,129,81,0,19,0,"Withdrew consent",2.65
+"P129","S12","Asia","Placebo","Male",78,79,174,"No","No","5",146,146,140,137,151,87,5,24,0,"Completed 24 months",5
+"P166","S05","North America","Drug","Female",55,83.4,156,"No","No","3.66",152,152,138,145,143,73,1,24,0,"Completed 24 months",3.66
+"P026","S10","Asia","Placebo","Male",63,67.7,173,"Yes","No","2.99",145,133,136,130,132,73,0,6.9,1,"CV event",2.99
+"P151","S06","Europe","Placebo","Female",44,191.1,159,"No","No","1.38",142,141,160,139,134,92,1,13.16,0,"Withdrew consent",1.38
+"P107","S04","North America","Placebo","Male",60,63.7,184,"Yes","No","0.77",150,160,145,148,155,84,0,7.6,1,"CV event",0.77
+"P012","S03","North America","Placebo","Female",56,86.7,154,"No","No","1.64",145,147,147,155,NA,88,1,2.9,0,"Withdrew consent",1.64
+"P408","S04","North America","Drug","Female",63,82.9,159,"Yes","No","3.34",159,155,147,150,147,97,0,24,0,"Completed 24 months",3.34
+"P181","S11","Asia","Placebo","Male",45,63.1,171,"No","No","5.06",154,141,143,144,148,80,0,11.18,1,"CV event",5.06
+"P252","S05","North America","Drug","Male",49,97.5,173,"Yes","No","3.95",148,138,142,141,148,75,2,21.12,1,"CV event",3.95
+"P122","S01","North America","Drug","Male",63,91.2,181,"No","No","5.74",145,140,136,140,127,100,2,24,0,"Completed 24 months",5.74
+"P570","S09","Europe","Drug","Female",54,63.6,163,"No","No","4.92",161,150,144,149,147,85,3,24,0,"Completed 24 months",4.92
+"P328","S10","Asia","Placebo","Female",54,82.3,166,"No","No","9.23",140,NA,NA,NA,NA,93,0,0.76,0,"Lost to follow-up",9.23
+"P349","S08","Europe","Drug","Male",58,92,177,"Yes","Yes","1.55",145,143,154,130,141,80,6,24,0,"Completed 24 months",1.55
+"P292","S04","North America","Placebo","Male",56,85.8,172,"No","No","2.16",158,146,139,143,122,95,0,24,0,"Completed 24 months",2.16
+"P396","S02","North America","Drug","Female",56,70,156,"Yes","No","11.95",161,151,152,140,NA,68,3,5.35,1,"CV event",11.95
+"P591","S01","North America","Drug","Female",53,71.9,158,"No","No","4.15",140,125,127,126,NA,86,0,3.11,1,"CV event",4.15
+"P468","S04","North America","Placebo","Male",64,81.6,162,"No","No","9.68",148,129,142,130,NA,93,0,3.11,0,"Lost to follow-up",9.68
+"P407","S12","Asia","Placebo","Male",60,108.8,164,"No","Yes","5.02",160,144,146,152,148,83,1,17.14,1,"CV event",5.02
+"P458","S04","North America","Placebo","Female",50,80.2,170,"No","No","8.3",153,148,152,128,140,99,0,24,0,"Completed 24 months",8.3
+"P325","S01","North America","Placebo","Male",59,85.3,173,"No","No","1.38",147,151,149,143,147,67,1,24,0,"Completed 24 months",1.38
+"P362","S01","North America","Drug","Female",53,79.6,171,"Yes","Yes","2.69",160,135,132,148,136,96,0,24,0,"Completed 24 months",2.69
+"P462","S02","North America","Drug","Female",64,66.8,162,"No","No","2.71",142,136,124,138,128,98,0,24,0,"Completed 24 months",2.71
+"P582","S08","Europe","Drug","Female",59,52.4,161,"No","No","0.44",155,129,125,120,118,86,0,24,0,"Completed 24 months",0.44
+"P311","S01","North America","Drug","Male",59,82.5,171,"No","No","4.62",149,130,144,140,NA,98,0,3.64,0,"Withdrew consent",4.62
+"P102","S05","North America","Placebo","Female",60,81.3,170,"Yes","No","5.66",151,143,145,141,137,95,0,7.03,1,"CV event",5.66
+"P588","S11","Asia","Drug","Female",33,69.8,157,"No","No","3.89",158,147,152,NA,NA,79,0,1.89,0,"Withdrew consent",3.89
+"P056","S01","North America","Drug","Male",45,80.8,170,"No","No","7.71",143,126,134,118,138,78,2,24,0,"Completed 24 months",7.71
+"P069","S10","Asia","Drug","Male",75,74,167,"No","No","3.24",155,NA,NA,NA,NA,85,0,0.17,0,"Lost to follow-up",3.24
+"P042","S01","North America","Placebo","Male",44,123.6,180,"No","No","5.43",166,196,159,161,169,100,0,15.84,1,"CV event",5.43
+"P086","S02","North America","Placebo","Male",67,55.4,176,"Yes","No","5.09",141,144,153,149,143,83,2,24,0,"Completed 24 months",5.09
+"P537","S01","North America","Drug","Female",45,53.8,157,"No","No","1.11",143,140,143,133,148,87,0,24,0,"Completed 24 months",1.11
+"P135","S12","Asia","Placebo","Female",69,77.7,169,"Yes","No","3.35",156,152,146,150,NA,85,1,3.29,1,"CV event",3.35
+"P197","S05","North America","Drug","Female",56,79.1,169,"Yes","Yes","4.13",144,122,121,113,114,81,1,12.88,1,"CV event",4.13
+"P356","S02","North America","Placebo","Male",52,85.2,174,"No","No","6.7",154,140,134,137,145,89,1,23.62,0,"Withdrew consent",6.7
+"P217","S06","Europe","Drug","Female",64,51.3,155,"Yes","No","1.17",143,144,133,135,137,81,1,24,0,"Completed 24 months",1.17
+"P493","S11","Asia","Drug","Male",54,111,168,"No","No","0.49",143,134,126,128,138,100,1,24,0,"Completed 24 months",0.49
+"P112","S06","Europe","Placebo","Female",45,65.8,166,"No","No","2.71",143,124,138,121,128,99,0,24,0,"Completed 24 months",2.71
+"P485","S03","North America","Drug","Female",63,65.1,154,"No","No","2.93",141,NA,NA,NA,NA,100,0,0.54,0,"Withdrew consent",2.93
+"P529","S05","North America","Placebo","Male",46,102.7,183,"No","No","4.58",146,NA,NA,NA,NA,77,0,0.46,0,"Lost to follow-up",4.58
+"P366","S04","North America","Placebo","Female",56,92.7,163,"No","No","15.55",166,142,142,162,155,95,0,18.39,1,"CV event",15.55
+"P500","S08","Europe","Drug","Male",41,85.2,165,"No","Yes","1.39",172,166,152,149,149,87,0,24,0,"Completed 24 months",1.39
+"P443","S12","Asia","Placebo","Female",50,67,156,"No","No","2.88",151,154,164,151,148,85,0,24,0,"Completed 24 months",2.88
+"P268","S07","Europe","Placebo","Male",45,90.4,186,"No","No","3.3",163,165,171,155,162,100,0,24,0,"Completed 24 months",3.3
+"P480","S01","North America","Drug","Female",54,75.7,165,"No","No","0.78",148,146,133,129,132,93,1,24,0,"Completed 24 months",0.78
+"P013","S09","Europe","Placebo","Male",59,80.7,175,"No","No","6.03",150,154,152,157,134,91,1,24,0,"Completed 24 months",6.03
+"P063","S05","North America","Placebo","Male",57,78,178,"Yes","No","2.74",155,149,148,146,148,86,0,6.58,1,"CV event",2.74
+"P171","S01","North America","Placebo","Female",57,66.5,165,"No","No","0.58",140,149,154,152,149,84,0,24,0,"Completed 24 months",0.58
+"P182","S06","Europe","Drug","Female",55,46,169,"No","No","2.01",143,134,137,132,130,81,0,20.55,0,"Withdrew consent",2.01
+"P193","S03","North America","Placebo","Male",50,87.8,178,"No","No","1.18",156,152,161,153,NA,85,0,3.92,0,"Lost to follow-up",1.18
+"P190","S11","Asia","Placebo","Female",70,48.8,170,"No","No","1.6",157,156,137,NA,NA,98,0,2.02,0,"Lost to follow-up",1.6
+"P113","S05","North America","Placebo","Male",48,63.4,164,"No","No","1.3",150,150,140,144,142,77,2,24,0,"Completed 24 months",1.3
+"P103","S08","Europe","Drug","Male",45,61.1,172,"No","No","5.06",144,141,139,138,126,81,1,24,0,"Completed 24 months",5.06
+"P078","S11","Asia","Drug","Male",51,65.1,182,"No","No","4.9",141,154,150,142,NA,94,0,4.59,1,"CV event",4.9
+"P191","S10","Asia","Drug","Female",71,79.8,157,"Yes","No","2.69",168,148,146,138,153,75,0,24,0,"Completed 24 months",2.69
+"P330","S02","North America","Drug","Male",71,93.4,177,"No","Yes","2.27",171,161,143,151,146,78,0,24,0,"Completed 24 months",2.27
+"P029","S05","North America","Drug","Male",50,97.4,176,NA,"Yes","2.17",143,132,141,148,NA,93,0,4.16,0,"Withdrew consent",2.17
+"P066","S11","Asia","Placebo","Male",55,64,168,"No","No","2.49",150,146,147,153,NA,87,0,4.82,0,"Lost to follow-up",2.49
+"P551","S08","Europe","Drug","Male",54,78.3,168,"No","Yes","2.23",143,165,143,145,139,82,0,8.72,0,"Withdrew consent",2.23
+"P291","S06","Europe","Placebo","Male",59,50.7,172,"No","No","1.56",149,147,124,140,132,72,2,24,0,"Completed 24 months",1.56
+"P565","S04","North America","Placebo","Female",54,78,155,"Yes","No","9.34",156,139,149,154,NA,100,0,3.71,0,"Lost to follow-up",9.34
+"P083","S01","North America","Placebo","Female",63,58.7,157,"No","No","7.32",147,118,142,128,132,97,0,14.47,0,"Lost to follow-up",7.32
+"P309","S12","Asia","Placebo","Male",52,92.1,185,"No","Yes","2.24",154,155,166,159,159,80,2,24,0,"Completed 24 months",2.24
+"P391","S10","Asia","Placebo","Male",36,88.1,162,"No","No","4.85",145,167,156,163,162,82,0,24,0,"Completed 24 months",4.85
+"P160","S06","Europe","Drug","Female",64,67.5,166,NA,"Yes","7.69",148,135,130,142,132,87,0,24,0,"Completed 24 months",7.69
+"P546","S03","North America","Drug","Female",61,84.8,155,"No","No","1.88",154,148,140,144,144,68,0,23.94,1,"CV event",1.88
+"P245","S04","North America","Placebo","Male",62,94.5,178,"No","No","1.58",168,166,171,177,NA,88,1,4.72,1,"CV event",1.58
+"P545","S05","North America","Placebo","Female",50,71.6,158,"No","No","1.19",153,143,138,148,139,100,3,24,0,"Completed 24 months",1.19
+"P424","S03","North America","Drug","Male",53,92.8,178,"No","No","4.31",154,147,152,153,141,83,0,24,0,"Completed 24 months",4.31
+"P127","S06","Europe","Drug","Female",62,48,163,"No","Yes","2.21",141,127,127,127,132,94,4,24,0,"Completed 24 months",2.21
+"P233","S11","Asia","Drug","Male",73,89,165,"Yes","Yes","3.56",159,131,136,145,NA,53,0,4.63,1,"CV event",3.56
+"P212","S08","Europe","Drug","Male",NA,77.4,186,"Yes","Yes","1.17",171,175,160,166,160,100,3,24,0,"Completed 24 months",1.17
+"P590","S10","Asia","Drug","Female",73,70.3,166,"Yes","No","1.99",154,165,147,152,146,76,0,7.27,1,"CV event",1.99
+"P293","S05","North America","Placebo","Male",76,77.3,167,"Yes","No","1.08",152,167,158,163,165,73,1,9.08,1,"CV event",1.08
+"P213","S08","Europe","Drug","Male",57,87.5,181,"No","Yes","5.72",157,168,150,152,154,72,0,10.22,1,"CV event",5.72
+"P397","S04","North America","Drug","Female",73,80.6,167,"No","No","0.72",149,141,145,147,140,70,1,24,0,"Completed 24 months",0.72
+"P104","S04","North America","Drug","Female",69,145.7,162,"Yes","No","1.13",164,157,157,135,146,85,1,7.94,1,"CV event",1.13
+"P459","S08","Europe","Placebo","Female",56,48.3,167,"No","No","11.04",152,156,143,147,147,87,0,14.82,0,"Lost to follow-up",11.04
+"P394","S04","North America","Placebo","Male",62,80.3,176,"No","No","6.49",156,153,NA,NA,NA,93,0,1.51,0,"Withdrew consent",6.49
+"P009","S04","North America","Drug","Male",56,70.9,NA,"No","No","1.39",147,146,143,136,141,71,2,24,0,"Completed 24 months",1.39
+"P229","S01","North America","Placebo","Male",53,58.9,171,"No","No","1.81",148,160,NA,NA,NA,84,0,1,0,"Withdrew consent",1.81
+"P238","S06","Europe","Drug","Male",51,99.3,179,"No","No","2.92",157,164,158,NA,NA,85,0,1.89,0,"Lost to follow-up",2.92
+"P560","S11","Asia","Drug","Male",65,108.9,163,"No","No","6.99",161,178,163,168,164,75,0,24,0,"Completed 24 months",6.99
+"P183","S05","North America","Placebo","Male",49,101,176,"No","No","2.65",144,140,135,143,155,87,1,24,0,"Completed 24 months",2.65
+"P399","S11","Asia","Drug","Female",49,53.3,166,"No","No","2.97",144,146,133,130,132,72,1,24,0,"Completed 24 months",2.97
+"P198","S12","Asia","Drug","Female",58,101.6,163,"No","No","0.44",162,149,151,147,147,80,0,24,0,"Completed 24 months",0.44
+"P282","S02","North America","Drug","Male",NA,88.5,182,"Yes","Yes","4.11",142,137,139,129,NA,92,2,4.92,1,"CV event",4.11
+"P492","S11","Asia","Drug","Female",42,46,158,"Yes","No","2.99",145,140,135,NA,NA,70,0,2.67,1,"CV event",2.99
+"P583","S04","North America","Placebo","Male",49,85.6,153,"No","No","3.23",147,146,138,133,137,100,3,24,0,"Completed 24 months",3.23
+"P541","S11","Asia","Placebo","Female",58,70.4,166,"No","No","9.46",152,155,160,139,140,86,0,24,0,"Completed 24 months",9.46
+"P489","S02","North America","Drug","Female",61,57.4,159,"No","No","0.95",149,136,126,124,120,89,0,6.4,0,"Withdrew consent",0.95
+"P051","S10","Asia","Drug","Female",43,72.4,163,"No","No","0.63",143,136,129,143,142,77,0,19.63,1,"CV event",0.63
+"P188","S07","Europe","Drug","Male",71,101,158,"No","No","5.86",157,157,141,139,146,78,0,24,0,"Completed 24 months",5.86
+"P342","S07","Europe","Placebo","Female",50,84.6,158,"No","No","4.11",166,164,149,152,158,100,0,24,0,"Completed 24 months",4.11
+"P165","S11","Asia","Placebo","Male",48,87,166,"No","No","3.24",150,161,NA,143,150,83,0,24,0,"Completed 24 months",3.24
+"P023","S02","North America","Drug","Male",58,98.7,175,"No","No","6.76",140,152,147,160,148,74,0,24,0,"Completed 24 months",6.76
+"P319","S06","Europe","Drug","Male",54,102.2,182,"No","Yes","6.53",145,123,123,120,127,93,2,24,0,"Completed 24 months",6.53
+"P235","S05","North America","Drug","Male",69,73.1,169,"No","No","4.84",156,146,161,155,145,100,7,24,0,"Completed 24 months",4.84
+"P169","S06","Europe","Drug","Female",70,73.2,169,"No","No","0.6",145,114,109,96,106,84,0,15.31,0,"Withdrew consent",0.6
+"P377","S10","Asia","Placebo","Male",64,82.5,166,"No","No","4.16",141,145,122,NA,NA,100,0,1.94,0,"Withdrew consent",4.16
+"P070","S03","North America","Placebo","Male",52,102.3,182,"No","Yes","4.43",149,148,147,143,136,91,0,24,0,"Completed 24 months",4.43
+"P187","S12","Asia","Placebo","Male",56,118.8,178,"No","No","1.11",162,155,152,150,155,83,0,24,0,"Completed 24 months",1.11
+"P499","S12","Asia","Drug","Male",70,66.5,166,"No","No","1.8",142,139,147,124,138,96,0,20.85,1,"CV event",1.8
+"P486","S01","North America","Drug","Male",64,78.3,184,"No","No","4.97",149,125,144,144,130,67,2,24,0,"Completed 24 months",4.97
+"P445","S05","North America","Drug","Male",61,69.3,167,"No","No","2.29",163,148,154,150,160,86,0,24,0,"Completed 24 months",2.29
+"P206","S08","Europe","Placebo","Male",75,82.4,177,"Yes","No","10.86",164,158,172,159,150,94,1,6.11,0,"Lost to follow-up",10.86
+"P352","S08","Europe","Drug","Male",58,98.7,168,"Yes","Yes","3.78",143,141,140,140,NA,58,0,2.78,1,"CV event",3.78
+"P152","S09","Europe","Drug","Female",63,87.4,165,"Yes","No","10.01",155,137,134,124,136,76,0,24,0,"Completed 24 months",10.01
+"P508","S07","Europe","Placebo","Female",52,78.8,163,"Yes","No","2.36",141,143,147,153,133,100,2,24,0,"Completed 24 months",2.36
+"P428","S06","Europe","Drug","Female",49,60.9,157,"No","No","1.76",141,131,126,119,121,93,1,24,0,"Completed 24 months",1.76
+"P030","S01","North America","Placebo","Female",77,70.6,171,"Yes","No","11.21",152,137,133,143,139,92,0,24,0,"Completed 24 months",11.21
+"P422","S11","Asia","Drug","Female",56,94,164,"No","Yes","2.32",153,NA,NA,NA,NA,87,0,0.23,0,"Withdrew consent",2.32
+"P239","S01","North America","Placebo","Female",67,93.9,161,"No","No","0.92",154,151,147,146,151,97,0,9.78,1,"CV event",0.92
+"P162","S06","Europe","Placebo","Male",58,105.2,166,"No","No","5.85",157,150,159,150,NA,92,0,3.36,1,"CV event",5.85
+"P574","S01","North America","Drug","Male",77,99.3,174,"No","Yes","1.41",154,166,148,154,143,72,0,24,0,"Completed 24 months",1.41
+"P395","S06","Europe","Placebo","Male",48,94.2,181,"No","Yes","6.26",142,152,149,146,152,76,0,24,0,"Completed 24 months",6.26
+"P380","S07","Europe","Placebo","Male",42,77,184,"No","No","1.61",143,149,157,155,165,82,1,24,0,"Completed 24 months",1.61
+"P324","S01","North America","Drug","Male",NA,94.2,186,"No","No","3.44",156,136,153,139,135,96,0,24,0,"Completed 24 months",3.44
+"P117","S12","Asia","Placebo","Female",50,57,172,"No","Yes","2.87",141,138,144,132,138,91,2,18.45,1,"CV event",2.87
+"P343","S09","Europe","Drug","Male",55,63.9,180,"No","Yes","2.81",160,147,151,147,138,97,0,24,0,"Completed 24 months",2.81
+"P258","S11","Asia","Placebo","Female",75,79.9,162,"No","No","3.45",169,174,174,159,169,92,1,10.4,0,"Withdrew consent",3.45
+"P393","S05","North America","Drug","Male",53,62.2,161,"Yes","No","4.24",153,132,129,127,140,86,0,24,0,"Completed 24 months",4.24
+"P441","S07","Europe","Placebo","Male",50,98.7,184,"No","No","1.99",143,149,152,147,152,83,0,24,0,"Completed 24 months",1.99
+"P515","S10","Asia","Placebo","Female",40,74.7,163,"No","No","2.84",143,149,NA,NA,NA,84,0,1.12,0,"Withdrew consent",2.84
+"P047","S11","Asia","Placebo","Female",61,84.1,168,"No","Yes","2.93",153,152,NA,NA,NA,82,0,1.14,1,"CV event",2.93
+"P004","S11","Asia","Drug","Male",58,77.1,176,"No","No","4.27",159,157,159,150,162,86,0,15.89,0,"Withdrew consent",4.27
+"P369","S08","Europe","Drug","Female",69,75.8,166,"No","No","4.67",140,131,133,129,129,77,0,24,0,"Completed 24 months",4.67
+"P432","S10","Asia","Drug","Male",62,71.1,174,"No","No","2.46",153,141,136,NA,NA,59,0,2.07,0,"Lost to follow-up",2.46
+"P236","S09","Europe","Drug","Female",52,75,169,"No","No","1.48",141,125,128,119,118,100,2,24,0,"Completed 24 months",1.48
+"P031","S10","Asia","Placebo","Female",55,60.5,156,"No","No","2.9",144,140,136,133,141,NA,1,24,0,"Completed 24 months",2.9
+"P155","S01","North America","Drug","Male",47,93.8,169,"No","No","5.7",155,147,142,154,151,71,1,24,0,"Completed 24 months",5.7
+"P488","S11","Asia","Placebo","Male",45,75.3,171,"No","No","1.57",151,146,154,151,130,70,1,24,0,"Completed 24 months",1.57
+"P430","S08","Europe","Placebo","Female",78,69.1,170,"No","No","1.39",147,149,152,153,152,98,1,24,0,"Completed 24 months",1.39
+"P411","S06","Europe","Drug","Female",48,76.4,148,"No","No","3.92",164,169,NA,NA,NA,81,0,1.64,0,"Withdrew consent",3.92
+"P280","S04","North America","Placebo","Female",46,79,154,"No","No","1.58",142,145,NA,143,154,92,0,15.42,1,"CV event",1.58
+"P052","S07","Europe","Drug","Male",74,93,175,"No","No","2.6",144,137,152,132,133,70,0,24,0,"Completed 24 months",2.6
+"P037","S12","Asia","Drug","Male",64,67.9,176,"No","No","5.03",152,153,145,142,149,91,1,7.75,0,"Withdrew consent",5.03
+"P098","S03","North America","Drug","Female",80,48.4,166,"No","No","1.78",146,140,133,123,136,74,1,12.07,0,"Withdrew consent",1.78
+"P400","S07","Europe","Placebo","Female",60,91.8,161,"No","No","0.97",157,164,NA,NA,NA,97,0,1.12,0,"Lost to follow-up",0.97
+"P014","S10","Asia","Placebo","Male",70,67.2,184,"No","Yes","0.58",166,170,161,160,162,99,1,9.62,1,"CV event",0.58
+"P164","S04","North America","Drug","Male",66,69.6,177,"Yes","No","2.29",163,NA,NA,NA,NA,100,0,0.18,0,"Lost to follow-up",2.29
+"P059","S12","Asia","Drug","Female",63,84.1,167,"No","No","4.96",144,125,135,121,125,90,0,6.18,0,"Withdrew consent",4.96
+"P064","S10","Asia","Placebo","Male",NA,67.2,174,"No","No","0.69",147,149,150,145,NA,95,0,3.46,0,"Lost to follow-up",0.69
+"P234","S02","North America","Drug","Male",65,72,180,"No","Yes","3.73",162,166,150,152,156,80,0,7.08,1,"CV event",3.73
+"P450","S12","Asia","Drug","Female",57,80.9,161,"No","No","3.79",156,158,141,156,148,67,0,12.39,0,"Lost to follow-up",3.79
+"P520","S03","North America","Drug","Male",40,66.5,162,"No","No","<0.2",143,131,120,130,128,97,3,24,0,"Completed 24 months",NA
+"P596","S12","Asia","Drug","Male",55,76.4,171,"No","No","4.04",142,152,143,154,130,66,0,21.61,0,"Withdrew consent",4.04
+"P266","S04","North America","Placebo","Female",54,65.9,155,"No","No","1.34",156,171,157,163,166,74,0,20.13,0,"Lost to follow-up",1.34
+"P425","S08","Europe","Placebo","Male",55,77.2,171,"No","No","4.45",144,159,139,NA,NA,92,0,2.05,0,"Lost to follow-up",4.45
+"P385","S02","North America","Drug","Male",42,64.1,177,"No","No","2.09",153,155,147,140,155,100,1,21.94,1,"CV event",2.09
+"P079","S04","North America","Placebo","Male",61,74.6,176,"Yes","No","6.24",144,126,136,135,120,87,0,17.16,1,"CV event",6.24
+"P046","S09","Europe","Drug","Male",77,60.9,168,"No","No","1.11",164,NA,NA,NA,NA,81,0,0.1,0,"Withdrew consent",1.11
+"P372","S01","North America","Drug","Female",37,67.6,157,"No","Yes","1.4",145,142,150,148,131,88,0,5.86,0,"Lost to follow-up",1.4
+"P332","S12","Asia","Placebo","Male",NA,81.4,174,"No","No","1.52",144,148,140,NA,NA,91,0,2.26,0,"Withdrew consent",1.52
+"P158","S04","North America","Placebo","Male",49,59.9,173,"No","No","5.84",142,133,132,143,131,92,0,24,0,"Completed 24 months",5.84
+"P025","S04","North America","Placebo","Male",60,79.6,178,"No","No","2.39",164,149,162,154,153,76,0,17.19,1,"CV event",2.39
+"P448","S12","Asia","Placebo","Male",52,96.9,176,"No","No","6.73",157,147,146,136,136,89,0,12.66,1,"CV event",6.73
+"P413","S12","Asia","Drug","Female",74,85.7,158,"No","No","1.42",160,142,147,NA,NA,78,1,2.75,0,"Withdrew consent",1.42
+"P257","S01","North America","Placebo","Male",50,78.2,178,"No","No","0.39",148,163,153,144,NA,97,0,3.38,1,"CV event",0.39
+"P383","S07","Europe","Drug","Male",45,69.1,185,"No","No","7.3",148,152,140,153,146,81,2,24,0,"Completed 24 months",7.3
+"P556","S12","Asia","Drug","Female",46,67.8,167,"No","No","1.03",145,149,135,139,140,84,0,24,0,"Completed 24 months",1.03
+"P483","S04","North America","Drug","Female",55,83.3,167,"No","No","7.97",164,150,148,143,138,62,0,24,0,"Completed 24 months",7.97
+"P555","S11","Asia","Drug","Female",44,79.9,159,"No","No","6.49",141,129,NA,NA,NA,72,0,1.46,0,"Withdrew consent",6.49
+"P290","S06","Europe","Placebo","Female",69,72.3,159,"No","No","6.16",142,122,129,128,137,100,1,24,0,"Completed 24 months",6.16
+"P573","S07","Europe","Drug","Male",70,105.5,176,"No","No","1.68",144,147,152,144,145,93,1,24,0,"Completed 24 months",1.68
+"P548","S07","Europe","Placebo","Male",62,61.8,165,"Yes","No","2.08",144,153,141,145,NA,100,0,5.52,1,"CV event",2.08
+"P123","S10","Asia","Placebo","Male",52,76,173,"Yes","No","0.86",146,145,145,139,137,90,2,24,0,"Completed 24 months",0.86
+"P320","S05","North America","Drug","Male",49,68.3,164,"No","No","2.26",142,141,138,138,148,97,1,24,0,"Completed 24 months",2.26
+"P067","S03","North America","Drug","Male",63,84.8,172,"No","Yes","6.35",145,142,132,127,NA,79,0,5.28,1,"CV event",6.35
+"P195","S11","Asia","Drug","Male",52,84.6,179,"No","Yes","0.6",143,149,151,151,142,68,0,24,0,"Completed 24 months",0.6
+"P178","S03","North America","Placebo","Male",64,92.2,168,"No","Yes","4.81",145,149,148,136,142,68,0,24,0,"Completed 24 months",4.81
+"P207","S02","North America","Placebo","Female",56,79.1,167,"Yes","No","10.13",141,143,145,140,137,96,0,24,0,"Completed 24 months",10.13
+"P128","S05","North America","Drug","Male",42,94.1,169,"No","No","0.94",143,150,146,152,132,90,0,24,0,"Completed 24 months",0.94
+"P490","S09","Europe","Placebo","Female",68,80.7,169,"No","Yes","3.2",151,167,169,171,164,81,2,7.25,1,"CV event",3.2
+"P337","S08","Europe","Placebo","Male",36,97.6,180,"No","No","0.74",149,152,157,150,147,93,0,24,0,"Completed 24 months",0.74
+"P435","S03","North America","Placebo","Male",52,102,166,"No","No","5.87",141,135,138,152,144,64,1,24,0,"Completed 24 months",5.87
+"P478","S08","Europe","Placebo","Male",74,97.3,170,"Yes","Yes","4.73",146,130,141,150,124,100,6,24,0,"Completed 24 months",4.73
+"P001","S05","North America","Placebo","Male",48,80.6,181,"No","No","4.79",143,148,151,155,146,86,3,24,0,"Completed 24 months",4.79
+"P227","S04","North America","Placebo","Female",62,50.1,170,"No","No","2.04",141,161,155,148,143,100,0,17.79,1,"CV event",2.04
+"P578","S07","Europe","Drug","Female",50,57.9,160,"No","No","4.6",156,143,153,124,131,86,0,24,0,"Completed 24 months",4.6
+"P571","S09","Europe","Placebo","Male",65,108.3,170,"Yes","Yes","17",154,149,138,151,156,75,0,24,0,"Completed 24 months",17
+"P250","S08","Europe","Drug","Male",42,85.5,175,"No","No","1.78",143,146,142,125,136,90,0,10.78,0,"Withdrew consent",1.78
+"P378","S02","North America","Placebo","Female",66,64.4,150,"Yes","No","39.32",143,135,135,134,125,88,0,9.62,1,"CV event",39.32
+"P109","S01","North America","Placebo","Female",78,46,154,"No","Yes","2.64",143,143,143,146,NA,83,0,3.89,0,"Lost to follow-up",2.64
+"P427","S08","Europe","Drug","Male",51,64.9,176,"No","Yes","<0.2",147,135,162,NA,NA,85,1,2.61,1,"CV event",NA
+"P194","S11","Asia","Placebo","Male",32,69.2,168,"Yes","Yes","0.88",150,152,157,152,158,86,1,24,0,"Completed 24 months",0.88
+"P006","S08","Europe","Drug","Male",68,83.6,180,"No","No","3.24",146,155,142,156,152,94,1,24,0,"Completed 24 months",3.24
+"P261","S03","North America","Placebo","Female",51,81.8,165,"No","Yes","1.91",163,147,152,155,155,84,0,5.97,0,"Lost to follow-up",1.91
+"P572","S01","North America","Drug","Male",59,93.1,177,"Yes","No","1.55",156,135,147,148,NA,96,0,4,0,"Withdrew consent",1.55
+"P314","S07","Europe","Drug","Female",66,66.5,161,"No","No","2.7",142,126,123,118,125,83,1,24,0,"Completed 24 months",2.7
+"P540","S10","Asia","Drug","Male",50,46,184,"No","No","2.38",145,141,130,136,136,95,1,24,0,"Completed 24 months",2.38
+"P569","S07","Europe","Placebo","Female",59,81.8,155,"No","Yes","2.69",171,151,166,163,177,88,0,22.69,1,"CV event",2.69
+"P060","S02","North America","Drug","Female",41,80.7,169,"No","No","1.95",140,132,127,131,NA,60,0,2.88,1,"CV event",1.95
+"P346","S10","Asia","Drug","Female",55,52,163,"No","No","1.02",151,143,NA,NA,NA,88,0,0.97,0,"Withdrew consent",1.02
+"P048","S08","Europe","Placebo","Male",34,64.9,169,"No","No","0.69",149,153,144,140,146,100,1,18.75,1,"CV event",0.69
+"P528","S02","North America","Drug","Female",54,78.2,166,"No","No","5.11",144,127,127,125,135,99,0,24,0,"Completed 24 months",5.11
+"P303","S11","Asia","Placebo","Female",57,74.5,168,"Yes","No","7.55",153,152,160,147,154,86,0,7.67,1,"CV event",7.55
+"P473","S04","North America","Placebo","Female",77,68.9,160,"No","Yes","1.5",158,152,150,145,149,98,0,24,0,"Completed 24 months",1.5
+"P121","S06","Europe","Drug","Male",61,96.8,168,"No","No","6.14",163,159,NA,NA,NA,95,0,0.97,0,"Withdrew consent",6.14
+"P287","S09","Europe","Placebo","Male",65,89.4,181,"No","No","0.41",164,149,145,143,151,99,1,24,0,"Completed 24 months",0.41
+"P423","S10","Asia","Placebo","Male",62,63.6,182,"No","No","3.84",153,140,135,136,149,89,6,21.07,1,"CV event",3.84
+"P415","S12","Asia","Drug","Female",71,64.9,156,"No","No","2.73",157,NA,NA,NA,NA,87,1,0.85,0,"Withdrew consent",2.73
+"P600","S11","Asia","Drug","Female",51,64.7,164,"No","Yes","2.67",153,137,148,141,146,84,0,8.07,0,"Lost to follow-up",2.67
+"P247","S09","Europe","Drug","Female",55,70.3,162,"No","No","1.23",140,126,130,134,137,83,0,24,0,"Completed 24 months",1.23
+"P524","S05","North America","Drug","Male",56,69.6,155,"No","No","2.16",145,140,151,141,149,92,1,15.31,1,"CV event",2.16
+"P167","S07","Europe","Placebo","Female",71,59.7,161,"Yes","No","6.66",144,149,138,145,153,100,1,24,0,"Completed 24 months",6.66
+"P313","S04","North America","Placebo","Male",42,74.6,175,"Yes","No","3.67",143,135,137,138,134,92,0,12.34,1,"CV event",3.67
+"P593","S01","North America","Drug","Male",54,62.2,176,"No","No","2.3",141,134,126,136,130,68,0,24,0,"Completed 24 months",2.3
+"P210","S06","Europe","Drug","Male",45,102.4,179,"No","Yes","1.11",144,139,NA,NA,NA,73,0,1.17,0,"Withdrew consent",1.11
+"P597","S04","North America","Placebo","Male",54,90.7,166,"No","No","3.85",157,154,141,149,141,83,0,24,0,"Completed 24 months",3.85
+"P223","S01","North America","Placebo","Female",65,64.7,171,"No","No","6.27",157,146,146,NA,NA,90,0,2.51,0,"Lost to follow-up",6.27
+"P300","S08","Europe","Drug","Male",66,106.4,175,"No","No","6.96",154,NA,NA,NA,NA,83,0,0.76,0,"Lost to follow-up",6.96
+"P214","S03","North America","Drug","Female",67,46,157,"No","Yes","1.31",144,NA,NA,NA,NA,89,0,0.9,0,"Withdrew consent",1.31
+"P460","S11","Asia","Placebo","Female",NA,89.3,165,"No","No","2.33",143,150,147,153,143,96,0,21.52,1,"CV event",2.33
+"P119","S06","Europe","Placebo","Male",46,76.5,184,"No","No","1.85",140,149,152,134,141,100,0,24,0,"Completed 24 months",1.85
+"P461","S04","North America","Placebo","Female",52,74.4,165,"No","Yes","2.19",147,150,129,149,152,76,0,14.8,1,"CV event",2.19
+"P384","S12","Asia","Drug","Male",62,87.8,177,"No","No","1.09",151,NA,NA,NA,NA,77,0,0.47,0,"Lost to follow-up",1.09
+"P503","S06","Europe","Drug","Male",63,76.8,188,"No","No","2.57",143,149,160,143,143,81,1,24,0,"Completed 24 months",2.57
+"P538","S12","Asia","Placebo","Male",70,112.2,182,"No","No","3.36",159,155,157,NA,NA,100,0,2.48,0,"Withdrew consent",3.36
+"P471","S08","Europe","Drug","Female",67,85.6,162,"No","No","2.65",153,148,NA,NA,NA,96,NA,1.34,0,"Lost to follow-up",2.65
+"P043","S08","Europe","Placebo","Female",61,63.3,168,"No","No","<0.2",147,137,149,130,143,91,0,24,0,"Completed 24 months",NA
+"P533","S05","North America","Drug","Female",54,68.2,167,"No","No","1.84",146,137,143,133,115,79,4,24,0,"Completed 24 months",1.84
+"P564","S08","Europe","Drug","Male",77,87.2,193,NA,"Yes","0.84",155,149,149,130,143,73,3,24,0,"Completed 24 months",0.84
+"P586","S04","North America","Drug","Male",59,95,173,"No","No","5.46",149,144,147,143,137,87,0,24,0,"Completed 24 months",5.46
+"P077","S06","Europe","Drug","Female",35,75.3,163,"No","No","0.52",141,152,146,NA,NA,91,0,2.45,0,"Withdrew consent",0.52
+"P506","S08","Europe","Placebo","Male",58,109.4,180,"No","No","9.08",161,164,175,164,168,82,1,15.59,1,"CV event",9.08
+"P142","S06","Europe","Placebo","Male",64,102.5,172,"No","Yes","2.09",156,144,157,148,152,82,2,24,0,"Completed 24 months",2.09
+"P576","S06","Europe","Drug","Male",68,94.1,175,"Yes","Yes","1.42",142,136,135,133,128,74,3,20.19,1,"CV event",1.42
+"P074","S04","North America","Placebo","Female",59,68.2,159,"No","No","4.04",141,136,141,135,132,100,1,12.06,1,"CV event",4.04
+"P307","S09","Europe","Drug","Female",47,93.5,164,"Yes","No","1.55",143,136,138,136,130,100,2,24,0,"Completed 24 months",1.55
+"P514","S06","Europe","Placebo","Male",65,88.2,182,"No","Yes","2.59",167,174,NA,NA,NA,98,1,1.68,0,"Withdrew consent",2.59
+"P563","S06","Europe","Drug","Male",57,57.1,184,"No","No","0.77",144,160,150,141,150,81,0,24,0,"Completed 24 months",0.77
+"P559","S11","Asia","Placebo","Female",NA,68,173,"Yes","No","2.58",159,154,151,156,NA,74,0,3.64,0,"Withdrew consent",2.58
+"P153","S11","Asia","Drug","Female",57,54,169,"No","Yes","0.93",148,NA,NA,NA,NA,75,0,0.71,0,"Withdrew consent",0.93
+"P033","S10","Asia","Drug","Female",70,79.4,163,"No","No","4.13",141,124,134,135,139,100,1,24,0,"Completed 24 months",4.13
+"P016","S11","Asia","Drug","Female",78,71.3,165,"No","No","2.18",147,129,132,134,134,72,0,24,0,"Completed 24 months",2.18
+"P498","S07","Europe","Drug","Male",47,78.3,183,"No","No","1.79",171,155,159,NA,NA,100,1,2.18,0,"Lost to follow-up",1.79
+"P351","S07","Europe","Placebo","Male",58,86.2,174,"No","No","3.89",153,151,130,NA,NA,71,0,2.09,1,"CV event",3.89
+"P108","S01","North America","Drug","Female",70,65.4,157,"No","No","2.11",141,134,123,129,133,89,1,11.94,0,"Withdrew consent",2.11
+"P177","S03","North America","Placebo","Male",49,92.2,180,"No","No","6.38",146,157,167,143,154,81,2,21.45,1,"CV event",6.38
+"P467","S08","Europe","Drug","Female",67,63.9,153,"No","No","5.71",144,142,141,141,131,75,0,24,0,"Completed 24 months",5.71
+"P404","S06","Europe","Drug","Male",59,86.2,165,"No","Yes","n/a",148,160,161,154,158,100,0,9.83,0,"Withdrew consent",NA
+"P148","S01","North America","Placebo","Male",61,81.6,167,"No","Yes","1.8",143,133,135,145,NA,89,0,3.6,0,"Withdrew consent",1.8
+"P451","S01","North America","Drug","Male",51,120.3,169,"No","Yes","4.23",151,159,165,165,NA,73,0,5.27,0,"Withdrew consent",4.23
+"P255","S08","Europe","Placebo","Male",65,97.2,170,"Yes","No","3.82",142,135,NA,NA,NA,71,0,1.7,1,"CV event",3.82
+"P335","S03","North America","Drug","Male",51,110.8,170,"No","Yes","1.97",149,156,140,159,153,72,0,8.49,1,"CV event",1.97
+"P036","S10","Asia","Drug","Male",62,98.6,180,"No","No","0.52",159,155,162,158,149,76,1,24,0,"Completed 24 months",0.52
+"P436","S04","North America","Drug","Female",58,77,162,"No","No","1.98",154,134,150,NA,NA,86,0,1.87,1,"CV event",1.98
+"P226","S10","Asia","Drug","Male",55,91.2,179,"No","Yes","0.95",149,141,147,153,156,72,0,5.9,0,"Lost to follow-up",0.95
+"P173","S10","Asia","Placebo","Male",62,82.6,175,"No","Yes","9.32",142,149,143,154,146,96,0,17.96,1,"CV event",9.32
+"P470","S09","Europe","Drug","Male",73,94.2,178,"No","No","0.63",147,147,147,143,126,78,0,5.63,1,"CV event",0.63
+"P242","S12","Asia","Placebo","Female",56,63.8,166,"Yes","No","1.76",154,148,133,132,138,100,1,24,0,"Completed 24 months",1.76
+"P018","S11","Asia","Placebo","Female",59,NA,166,"No","No","1.46",161,166,150,176,150,100,1,15.17,1,"CV event",1.46
+"P344","S08","Europe","Placebo","Male",63,154.3,177,"No","No","0.51",151,155,145,151,142,100,0,19.5,1,"CV event",0.51
+"P157","S01","North America","Drug","Male",48,66.2,181,"No","No","1.27",158,149,158,149,156,87,0,24,0,"Completed 24 months",1.27
+"P544","S07","Europe","Placebo","Female",67,62.9,162,"No","No","5.98",157,144,146,149,146,82,1,24,0,"Completed 24 months",5.98
+"P534","S06","Europe","Placebo","Male",66,74.3,176,"Yes","Yes","2.37",164,NA,NA,NA,NA,75,0,0.92,0,"Lost to follow-up",2.37
+"P035","S11","Asia","Placebo","Female",61,79.5,170,"No","Yes","6.36",142,144,145,142,152,83,7,21.58,1,"CV event",6.36
+"P375","S07","Europe","Placebo","Male",64,92,184,"No","No","0.46",161,154,148,147,144,97,1,16.33,1,"CV event",0.46
+"P507","S07","Europe","Drug","Male",62,69.8,170,"No","No","2.54",151,129,125,124,120,97,4,24,0,"Completed 24 months",2.54
+"P389","S05","North America","Placebo","Female",56,63.1,160,"No","Yes","2.72",150,148,148,152,153,96,1,8.66,1,"CV event",2.72
+"P599","S04","North America","Drug","Female",52,46,162,"No","No","3.01",143,135,117,140,122,85,0,24,0,"Completed 24 months",3.01
+"P216","S07","Europe","Drug","Female",45,80.8,164,"No","Yes","2.84",150,145,136,123,127,96,0,24,0,"Completed 24 months",2.84
+"P209","S03","North America","Drug","Male",63,89,189,"No","No","4.17",153,156,154,150,153,100,3,21.31,1,"CV event",4.17
+"P065","S11","Asia","Drug","Female",57,70.1,165,"No","Yes","2.74",143,129,148,127,130,83,0,10.56,0,"Lost to follow-up",2.74
+"P011","S03","North America","Placebo","Male",46,62.1,178,"No","No","5.83",144,142,142,137,129,82,1,24,0,"Completed 24 months",5.83
+"P179","S07","Europe","Placebo","Female",49,67.6,162,NA,"No","1.89",154,159,157,162,160,90,4,24,0,"Completed 24 months",1.89
+"P253","S01","North America","Drug","Male",72,95.6,167,"No","No","2.39",143,NA,NA,NA,NA,84,0,0.09,0,"Withdrew consent",2.39
+"P262","S01","North America","Drug","Male",61,107.2,185,"No","Yes","9.33",156,NA,NA,NA,NA,67,0,0.5,0,"Withdrew consent",9.33
+"P101","S10","Asia","Placebo","Male",60,70.5,189,"No","No","1.21",141,NA,NA,NA,NA,87,0,0.2,0,"Lost to follow-up",1.21
+"P168","S08","Europe","Placebo","Female",49,68.4,166,"No","No","5.31",148,151,145,146,139,88,0,24,0,"Completed 24 months",5.31
+"P315","S10","Asia","Drug","Male",74,70.3,171,"No","No","2.43",155,141,149,142,151,92,0,24,0,"Completed 24 months",2.43
+"P519","S08","Europe","Drug","Female",54,68.3,167,"No","No","0.63",141,154,136,141,137,86,0,24,0,"Completed 24 months",0.63
+"P527","S08","Europe","Placebo","Female",60,82,170,"No","No","6.97",148,159,143,153,153,86,1,24,0,"Completed 24 months",6.97
+"P447","S03","North America","Placebo","Male",56,100.9,171,"No","No","3.69",143,146,128,142,137,100,0,24,0,"Completed 24 months",3.69
+"P566","S08","Europe","Placebo","Male",64,71.1,170,"No","No","1.37",161,141,NA,NA,NA,92,0,1.6,0,"Withdrew consent",1.37
+"P368","S09","Europe","Drug","Female",71,51.3,168,"No","No","0.9",142,NA,NA,NA,NA,70,0,0.29,0,"Withdrew consent",0.9
+"P146","S12","Asia","Drug","Female",46,62.2,166,"Yes","No","2.81",153,147,149,143,138,84,1,24,0,"Completed 24 months",2.81
+"P363","S01","North America","Drug","Female",43,53,166,"No","No","1.63",147,158,152,154,138,78,2,24,0,"Completed 24 months",1.63
+"P562","S11","Asia","Drug","Male",68,88.3,191,"No","No","1.35",142,148,142,144,131,68,0,24,0,"Completed 24 months",1.35
+"P322","S12","Asia","Drug","Male",59,69.1,178,"No","No","1.95",141,131,127,123,125,88,0,8.19,1,"CV event",1.95
+"P186","S07","Europe","Placebo","Male",55,80.9,176,"No","No","4.94",142,145,144,143,136,91,1,24,0,"Completed 24 months",4.94
+"P133","S02","North America","Drug","Female",67,103.7,166,"Yes","Yes","3.5",170,167,150,146,156,71,0,24,0,"Completed 24 months",3.5
+"P120","S07","Europe","Drug","Male",63,93,181,"No","Yes","1.67",148,159,168,146,152,91,0,23.93,0,"Withdrew consent",1.67
+"P039","S12","Asia","Placebo","Female",42,76.2,159,"No","Yes","0.89",142,140,147,137,146,95,0,24,0,"Completed 24 months",0.89
+"P494","S08","Europe","Placebo","Male",57,66.5,172,"No","No","2.93",141,141,140,136,143,100,1,24,0,"Completed 24 months",2.93
+"P561","S07","Europe","Drug","Male",58,88.5,167,"No","No","2.74",146,145,139,145,142,82,0,6.46,1,"CV event",2.74
+"P339","S02","North America","Drug","Female",69,64.1,169,"Yes","No","1.2",158,NA,NA,NA,NA,77,0,0.13,0,"Withdrew consent",1.2
+"P085","S06","Europe","Drug","Male",65,65.1,180,"No","Yes","4.84",142,NA,NA,NA,NA,81,0,0.16,0,"Withdrew consent",4.84
+"P225","S04","North America","Placebo","Female",60,79.5,166,"No","Yes","1.66",160,157,168,156,174,91,0,12.93,0,"Withdrew consent",1.66
+"P020","S08","Europe","Placebo","Female",64,67.5,163,"No","No","4.99",156,154,141,155,153,87,0,7.95,1,"CV event",4.99
+"P073","S12","Asia","Placebo","Male",59,62.8,182,"No","No","1.98",153,137,160,155,137,91,0,14.15,1,"CV event",1.98
+"P419","S04","North America","Drug","Female",50,64.3,172,"Yes","No","0.83",166,NA,NA,NA,NA,82,0,0.31,0,"Lost to follow-up",0.83
+"P076","S06","Europe","Placebo","Male",54,88.8,160,"No","No","1.13",149,135,142,151,137,99,1,20.84,1,"CV event",1.13
+"P381","S02","North America","Placebo","Male",63,92.3,187,"No","Yes","2.17",140,120,124,139,137,76,NA,24,0,"Completed 24 months",2.17
+"P386","S10","Asia","Placebo","Female",53,79.2,166,"No","Yes","2.57",146,140,135,143,138,81,4,24,0,"Completed 24 months",2.57
+"P453","S10","Asia","Placebo","Male",81,80,174,"No","No","20.3",154,141,146,135,137,97,3,22.49,1,"CV event",20.3
+"P265","S02","North America","Placebo","Male",50,93.7,169,"No","No","2.44",141,151,141,151,142,74,1,24,0,"Completed 24 months",2.44
+"P429","S02","North America","Placebo","Male",51,65.3,171,"Yes","No","3.88",149,NA,NA,NA,NA,90,0,0.79,0,"Lost to follow-up",3.88
+"P161","S11","Asia","Placebo","Male",66,86.6,180,"No","Yes","3.38",149,160,153,148,158,83,0,12.15,1,"CV event",3.38
+"P111","S12","Asia","Placebo","Female",61,74.8,166,"No","No","1.25",143,148,159,145,153,76,1,11.89,0,"Withdrew consent",1.25
+"P304","S10","Asia","Placebo","Female",57,77,161,"Yes","No","2.45",158,155,148,NA,NA,76,0,2.11,0,"Lost to follow-up",2.45
+"P581","S01","North America","Drug","Male",63,85.4,175,"No","No","3.8",155,NA,NA,NA,NA,79,0,0.9,0,"Lost to follow-up",3.8
+"P049","S04","North America","Drug","Female",55,82.1,160,"No","No","1.17",144,142,126,119,136,79,1,24,0,"Completed 24 months",1.17
+"P510","S09","Europe","Drug","Male",65,78.7,182,"No","No","0.59",143,150,147,154,153,78,0,24,0,"Completed 24 months",0.59
+"P019","S02","North America","Drug","Female",78,46,158,"No","No","0.7",155,141,144,136,140,93,0,24,0,"Completed 24 months",0.7
+"P044","S01","North America","Drug","Female",69,74.1,169,"No","No","1.26",158,164,156,NA,NA,87,0,2.68,0,"Lost to follow-up",1.26
+"P274","S05","North America","Drug","Male",50,100.9,170,"No","No","16.38",141,143,141,NA,NA,86,0,2.54,0,"Lost to follow-up",16.38
+"P444","S09","Europe","Placebo","Female",41,NA,169,"No","No","6.71",145,153,145,140,143,79,1,13.32,0,"Lost to follow-up",6.71
+"P091","S06","Europe","Drug","Female",52,79.1,153,"Yes","No","11.03",151,146,139,144,135,84,0,24,0,"Completed 24 months",11.03
+"P276","S07","Europe","Placebo","Female",42,69.2,163,"No","No","0.78",143,153,146,145,153,89,0,6.07,0,"Withdrew consent",0.78
+"P115","S10","Asia","Placebo","Male",61,93.7,183,"No","No","3.37",163,157,159,162,160,96,2,24,0,"Completed 24 months",3.37
+"P329","S03","North America","Drug","Male",63,72.9,173,"Yes","No","7.04",151,148,NA,NA,NA,61,0,1.03,0,"Lost to follow-up",7.04
+"P466","S12","Asia","Drug","Female",84,70.1,161,"No","No","1.99",160,155,151,150,154,74,0,21.75,0,"Lost to follow-up",1.99
+"P132","S05","North America","Drug","Female",62,54.1,151,"No","No","3.79",149,NA,NA,NA,NA,90,0,0.55,1,"CV event",3.79
+"P002","S12","Asia","Placebo","Male",62,92.5,174,"No","No","4.94",142,135,142,129,135,89,0,9.46,0,"Lost to follow-up",4.94
+"P228","S05","North America","Drug","Male",60,101.7,169,"Yes","Yes","15.75",176,157,152,163,160,83,1,17.76,1,"CV event",15.75
+"P134","S11","Asia","Drug","Female",51,55.7,163,"Yes","No","4.55",147,132,133,134,139,82,1,24,0,"Completed 24 months",4.55
+"P249","S06","Europe","Placebo","Male",53,113.4,187,"No","No","1.25",146,148,158,142,NA,99,0,5.45,1,"CV event",1.25
+"P284","S09","Europe","Placebo","Female",54,82.6,164,"No","No","3.71",148,151,132,149,134,78,2,24,0,"Completed 24 months",3.71
+"P497","S08","Europe","Drug","Female",69,87.6,145,"No","No","11.68",144,139,144,138,127,79,1,18.79,1,"CV event",11.68
+"P336","S12","Asia","Drug","Male",67,101.9,174,"No","No","9.56",160,150,157,153,151,83,0,19.85,1,"CV event",9.56
+"P440","S03","North America","Drug","Male",53,73.3,184,"Yes","No","4.16",143,132,128,132,136,80,3,24,0,"Completed 24 months",4.16
+"P264","S03","North America","Placebo","Female",55,89.7,157,"Yes","Yes","10.68",158,147,141,143,NA,74,2,4.08,0,"Lost to follow-up",10.68
+"P143","S06","Europe","Placebo","Female",59,78.9,156,"No","No","1.65",160,151,NA,NA,NA,85,0,0.96,0,"Lost to follow-up",1.65
+"P246","S09","Europe","Drug","Male",51,76,184,"No","Yes","2.84",151,166,155,161,152,93,0,22.47,1,"CV event",2.84
+"P028","S03","North America","Drug","Male",61,77.6,193,"No","No","3.08",146,134,129,NA,NA,83,0,2.17,0,"Lost to follow-up",3.08
+"P442","S01","North America","Drug","Male",64,50.3,174,"No","No","4.86",143,148,147,152,145,94,2,24,0,"Completed 24 months",4.86
+"P139","S12","Asia","Placebo","Female",68,68.8,170,"No","No","<0.2",141,144,150,152,154,84,NA,24,0,"Completed 24 months",NA
+"P364","S02","North America","Placebo","Male",53,95.7,184,"Yes","No","1.94",151,148,149,132,148,92,3,14.65,1,"CV event",1.94
+"P090","S05","North America","Placebo","Male",45,89,164,"No","No","1.95",153,158,152,162,152,75,0,24,0,"Completed 24 months",1.95
+"P024","S07","Europe","Placebo","Male",64,104.5,184,"No","Yes","0.49",153,148,157,159,144,85,1,24,0,"Completed 24 months",0.49
+"P080","S09","Europe","Placebo","Male",68,65.6,172,"No","No","7.6",142,128,134,136,126,90,5,24,0,"Completed 24 months",7.6
+"P126","S01","North America","Placebo","Female",63,47.6,164,"Yes","No","1.66",148,NA,NA,NA,NA,80,0,0.18,0,"Lost to follow-up",1.66
+"P243","S07","Europe","Placebo","Male",59,111.1,NA,"No","Yes","8.02",141,129,141,139,NA,80,0,3.27,0,"Withdrew consent",8.02
+"P371","S12","Asia","Drug","Female",51,85.7,160,"No","No","7.33",150,157,139,NA,NA,72,0,2.26,0,"Withdrew consent",7.33
+"P327","S12","Asia","Placebo","Male",62,97.9,167,"No","No","9.64",144,135,127,126,131,98,1,10.19,1,"CV event",9.64
+"P580","S09","Europe","Drug","Male",70,75.3,181,"Yes","No","3.32",169,167,NA,NA,NA,77,0,1.57,0,"Lost to follow-up",3.32
+"P505","S08","Europe","Drug","Female",64,61.8,161,"No","No","2.4",140,154,139,NA,NA,86,0,2.16,0,"Lost to follow-up",2.4
+"P409","S06","Europe","Drug","Male",45,97.6,175,"No","Yes","6",143,NA,NA,NA,NA,92,0,0.21,0,"Lost to follow-up",6
+"P082","S10","Asia","Drug","Female",53,77.9,157,"No","Yes","2.45",141,121,134,121,NA,84,0,5.1,1,"CV event",2.45
+"P469","S09","Europe","Placebo","Female",70,77.6,145,"No","No","3.91",148,149,148,142,136,97,2,24,0,"Completed 24 months",3.91
+"P232","S03","North America","Placebo","Female",67,72.3,162,"No","No","2.68",158,152,152,146,143,75,0,8.33,1,"CV event",2.68
+"P502","S10","Asia","Drug","Female",68,59.9,159,"Yes","No","2.74",143,156,144,147,155,65,1,12.74,0,"Lost to follow-up",2.74
+"P038","S02","North America","Drug","Male",57,65,177,"No","No","1.28",143,123,123,133,NA,87,0,3.6,0,"Withdrew consent",1.28
+"P141","S11","Asia","Placebo","Male",65,73.9,163,"No","No","2.93",166,152,163,149,164,84,0,6.2,0,"Lost to follow-up",2.93
+"P547","S04","North America","Drug","Female",54,74.5,159,"No","No","0.87",159,160,NA,NA,NA,94,0,1.71,0,"Lost to follow-up",0.87
+"P237","S05","North America","Drug","Male",61,121.6,183,"No","Yes","7.41",166,156,145,NA,NA,71,0,2.41,0,"Withdrew consent",7.41
+"P417","S10","Asia","Drug","Male",66,46,165,"Yes","No","2.36",158,154,152,162,151,74,1,24,0,"Completed 24 months",2.36
+"P584","S10","Asia","Drug","Female",71,63.8,166,"Yes","No","1.43",152,150,154,134,148,79,1,24,0,"Completed 24 months",1.43
+"P333","S11","Asia","Placebo","Female",54,60.2,164,"No","Yes","3.06",163,160,147,151,167,86,0,11.72,1,"CV event",3.06
+"P270","S02","North America","Placebo","Female",65,68.7,171,"Yes","No","1.99",145,149,152,NA,NA,98,0,2.44,0,"Withdrew consent",1.99
+"P338","S08","Europe","Drug","Male",50,88.6,164,"No","No","3.2",144,147,144,151,159,69,0,14.38,1,"CV event",3.2
+"P092","S01","North America","Drug","Female",41,69.1,173,"No","No","3.35",152,NA,NA,NA,NA,93,0,0.92,0,"Withdrew consent",3.35
+"P081","S09","Europe","Drug","Female",62,77.7,167,"No","No","1.62",143,150,141,143,145,80,3,24,0,"Completed 24 months",1.62
